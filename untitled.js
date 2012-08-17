@@ -1,5 +1,5 @@
 (function(){
 	window.onload = function untitled(){
-	document.title = "untitled";
+		document.title = "untitled";
 	}
 }())
